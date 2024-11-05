@@ -12,6 +12,8 @@ import plotly.express as px
 # 6) Upload to GitHub
 # 7) Deploy via Streamlit Community Cloud
 
+DELIBERATE BUG HERE!
+
 # Set the page config to spread across the screen
 st.set_page_config(layout='wide')
 
