@@ -8,6 +8,9 @@ import plotly.express as px
 # 2) Add a tab/link to the assumptions that I've made
 # 3) Investigate why I have a float total number of appointments!
 # 4) Add a way to split by SCAS/non-SCAS and add £?
+# 5) Create Git repo
+# 6) Upload to GitHub
+# 7) Deploy via Streamlit Community Cloud
 
 # Set the page config to spread across the screen
 st.set_page_config(layout='wide')
